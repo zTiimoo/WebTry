@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "datum": "12.08.2023",
+    "gegner": "RB Leipzig",
+    "wettbewerb": "Bundesliga",
+    "ergebnis": "3:2",
+    "bericht": "Starkes Auftaktspiel mit viel Energie. Leverkusen zeigt direkt, dass sie in Topform sind.",
+    "bild": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bayer_Leverkusen_logo.svg",
+    "video": "https://www.youtube.com/embed/XXXXXXXXXXX",
+    "link": "https://www.kicker.de/bayer-vs-leipzig-2023-bundesliga-123456/spielbericht"
+  },
+  {
+    "id": 2,
+    "datum": "19.08.2023",
+    "gegner": "Borussia Mönchengladbach",
+    "wettbewerb": "Bundesliga",
+    "ergebnis": "3:0",
+    "bericht": "Souveräner Auswärtssieg. Besonders das Pressing war beeindruckend.",
+    "bild": "",
+    "video": "",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "datum": "26.08.2023",
+    "gegner": "Darmstadt 98",
+    "wettbewerb": "Bundesliga",
+    "ergebnis": "5:1",
+    "bericht": "Wirtz und Boniface in absoluter Galaform.",
+    "bild": "",
+    "video": "",
+    "link": ""
+  }
+]
